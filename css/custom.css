@@ -1,0 +1,39 @@
+/* comment*/
+/*element selectors*/
+body{
+    margin: 0px;
+}
+header{
+background-color: lightblue;
+border: 2px solid brown;
+align-items: center;
+justify-content: space-around;
+}
+h1{
+    display: inline;
+    padding-left: 60px;
+}
+li{
+    display:inline ; 
+ }
+ ul{
+     display: inline;
+ }
+
+a{
+    border:2px solid coral;
+    padding: 5px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 60%;
+}
+.product-card{
+    background-color:lightcoral;
+    border: 10px solid red;
+    margin: 5px;
+}
